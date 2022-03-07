@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mis Animes</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="valor_requerido">Ingrese un valor</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="temporadas">Temporadas:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="Error">Algo salio mal</string>
+    <string name="guardado">Se guardo con exito</string>
+    <string name="titulo">Titulo: </string>
+    <string name="genero">Genero: </string>
+    <string name="regresar">Regresar</string>
+    <string name="mis_animes">Mis animes</string>
+    <string name="no_hay">No hay animes</string>
+    <string name="comedia">Comedia</string>
+    <string name="romance">Romance</string>
+    <string name="aventura">Aventura</string>
+    <string name="actualizado">Se actualizó correctamente</string>
+    <string name="seleccione_genero">Seleccione un genero</string>
+    <string name="confirmacion">Confirmacion</string>
+    <string name="pregunta">¿Esta seguro que quiere eliminar %s?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="eliminado">Eliminado correctamente</string>
+    <string-array name="generos">
+        <item>Selecione un genero</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Aventura</item>
+    </string-array>
+</resources>
